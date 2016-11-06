@@ -7,4 +7,10 @@ I based this code off of the React Tutorial on the Typescript website [Here](htt
 
 I then added the entry_point.js file to start electron for the resulting files of the webpack command.
 
-I will update this readme further when I find out how the stack works.
+I will update this readme further when I find out how the stack works.  
+
+Notes:
+
+Build:  `webpack`
+
+Start the app: `npm start`
